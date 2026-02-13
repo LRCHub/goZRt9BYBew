@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君の太陽",
+  "base_artist": "山猿",
+  "createdAt": "2026-02-13T14:44:15.894278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の太陽 - KIMINOTAIYOU",
+      "artist": "YAMAZARU",
+      "has_synced": true,
+      "path": "select/01_君の太陽_-_KIMINOTAIYOU_YAMAZARU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君の太陽",
+      "artist": "Yamazaru",
+      "has_synced": false,
+      "path": "select/02_君の太陽_Yamazaru.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の太陽",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_01_君の太陽_山猿.txt"
+    }
+  ]
+}
